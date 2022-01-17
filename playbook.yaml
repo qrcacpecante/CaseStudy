@@ -1,0 +1,4 @@
+- import_playbook: ralph/acl.yaml
+- import_playbook: ralph/ospf.yaml
+- import_playbook: ralph/backups.yaml
+- import_playbook: ralph/iproute.yaml
